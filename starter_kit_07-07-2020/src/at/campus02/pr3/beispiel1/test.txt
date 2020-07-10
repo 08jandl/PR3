@@ -1,0 +1,6 @@
+Rechnung 1024
+Position Pizza 5
+Position Cola 2
+Rechnung 1025
+Position Salat 4
+Position Mineralwasser 2
